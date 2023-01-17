@@ -12,7 +12,7 @@
 #block{
     width: 50px;
     height: 500px;
-    background-color: black;
+    background-color: rgb(234, 241, 17);
     position: relative;
     left: 400px;
     animation: block 2s infinite linear;
@@ -24,7 +24,7 @@
 #hole{
     width: 50px;
     height: 150px;
-    background-color: white;
+    background-color: rgb(24, 193, 202);
     position: relative;
     left: 400px;
     top: -500px;
